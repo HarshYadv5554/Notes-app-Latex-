@@ -64,3 +64,13 @@ Notes_Latex/
 
 ## License
 This project is open source and available under the [MIT License](LICENSE). 
+
+## App Screenshot
+
+Light Mode:
+
+![Notes_Latex Screenshot - Light Mode](./screenshot.png)
+
+Dark Mode:
+
+![Notes_Latex Screenshot - Dark Mode](./screenshot-dark.png) 
