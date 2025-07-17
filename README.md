@@ -69,8 +69,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 Light Mode:
 
-![Notes_Latex Screenshot - Light Mode](./screenshot.png)
+![Notes_Latex Screenshot - Light Mode](./screenshot.jpg)
 
 Dark Mode:
 
-![Notes_Latex Screenshot - Dark Mode](./screenshot-dark.png) 
+![Notes_Latex Screenshot - Dark Mode](./screenshot-dark.jpg) 
