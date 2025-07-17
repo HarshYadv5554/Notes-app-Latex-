@@ -73,4 +73,8 @@ Light Mode:
 
 Dark Mode:
 
+<<<<<<< HEAD
 ![Notes_Latex Screenshot - Dark Mode](./dark-screenshot.jpg) 
+=======
+![Notes_Latex Screenshot - Dark Mode](./screenshot-dark.jpg) 
+>>>>>>> 163f58090231198f1cc32afeec94b170bee0c2d7
